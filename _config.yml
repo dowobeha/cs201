@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Reveal-Jekyll"
+baseurl: "/cs201"
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 reveal:
